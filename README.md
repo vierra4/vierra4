@@ -42,6 +42,3 @@
 
 ![unmatched's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vierra4&custom_title=vierra4's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 ---
-> **Warning:** Contents may be hotter than your CPU under 100% load.
-
----
